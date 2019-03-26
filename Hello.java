@@ -2,6 +2,6 @@ public class Hello
 {
 	public static void main (String args[])
 	{
-		System.Out.Println("Hello from Imaduddin");
+		System.out.println("Hello from Imaduddin");
 	}
 }
